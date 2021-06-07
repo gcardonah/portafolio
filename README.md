@@ -9,22 +9,16 @@
     <meta name="author" content="TemplateMo">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Finance Business HTML5 Template</title>
+    <title>Portafolio Guillermo A. Cardona NLP</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap.min.css" rel="stylesheet">
 
     <!-- Additional CSS Files -->
-    <link rel="stylesheet" href="assets/css/fontawesome.css">
-    <link rel="stylesheet" href="assets/css/templatemo-finance-business.css">
-    <link rel="stylesheet" href="assets/css/owl.css">
-<!--
+    <link rel="stylesheet" href="fontawesome.css">
+    <link rel="stylesheet" href="templatemo-finance-business.css">
+    <link rel="stylesheet" href="owl.css">
 
-Finance Business TemplateMo
-
-https://templatemo.com/tm-545-finance-business
-
--->
   </head>
 
   <body>
@@ -45,8 +39,7 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-8 col-xs-12">
             <ul class="left-info">
-              <li><a href="#"><i class="fa fa-clock-o"></i>Mon-Fri 09:00-17:00</a></li>
-              <li><a href="#"><i class="fa fa-phone"></i>090-080-0760</a></li>
+              <li><a href="#"><i class="fa fa-phone"></i>350-877-2121</a></li>
             </ul>
           </div>
           <div class="col-md-4">
@@ -54,7 +47,6 @@ https://templatemo.com/tm-545-finance-business
               <li><a href="#"><i class="fa fa-facebook"></i></a></li>
               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
               <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-              <li><a href="#"><i class="fa fa-behance"></i></a></li>
             </ul>
           </div>
         </div>
@@ -64,7 +56,7 @@ https://templatemo.com/tm-545-finance-business
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.html"><h2>Finance Business</h2></a>
+          <a class="navbar-brand" href="index.html"><h2>Analitica estrategica de datos</h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -76,13 +68,10 @@ https://templatemo.com/tm-545-finance-business
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About Us</a>
+                <a class="nav-link" href="services.html">Portafolio</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="services.html">Our Services</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact Us</a>
+                <a class="nav-link" href="contact.html">Contactanos</a>
               </li>
             </ul>
           </div>
@@ -98,10 +87,10 @@ https://templatemo.com/tm-545-finance-business
           <div class="item item-1">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>we are ready to help you</h6>
-                  <h4>Financial Analysis<br>&amp; Consulting</h4>
-                  <p>This finance HTML template is 100% free of charge provided by TemplateMo for everyone. You can download, edit and use this layout for your business website.</p>
-                  <a href="contact.html" class="filled-button">contact us</a>
+                  <h6>Inteligencia de Negocios y Machine Learning </h6>
+                  <h4>aportando conocimientos en modelos analíticos<br>&amp; predictivos y prescriptivos</h4>
+                  <p>para la solución de problemas en cualquier sector económico, siempre orientado a la adecuada toma de decisiones.</p>
+                  <a href="contact.html" class="filled-button">contactanos</a>
                 </div>
             </div>
           </div>
@@ -110,10 +99,10 @@ https://templatemo.com/tm-545-finance-business
           <div class="item item-2">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>we are here to support you</h6>
-                  <h4>Accounting<br>&amp; Management</h4>
-                  <p>You are allowed to use this template for your company websites. You are NOT allowed to re-distribute this template ZIP file on any template download website. Please contact TemplateMo for more detail.</p>
-                  <a href="services.html" class="filled-button">our services</a>
+                  <h6>estructurar y liderar </h6>
+                  <h4>proyectos de analítica de datos</h4>
+                  <p>desde la conceptualización, planeación, desarrollo hasta la comunicación asertiva de resultados para la organización.</p>
+                  <a href="services.html" class="filled-button">Porafolio</a>
                 </div>
             </div>
           </div>
@@ -122,10 +111,10 @@ https://templatemo.com/tm-545-finance-business
           <div class="item item-3">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>we have a solid background</h6>
-                  <h4>Market Analysis<br>&amp; Statistics</h4>
-                  <p>Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate mi. Sed nec cursus augue. Phasellus lacinia ac sapien vitae dapibus. Mauris ut dapibus velit cras interdum nisl ac urna tempor mollis.</p>
-                  <a href="about.html" class="filled-button">learn more</a>
+                  <h6>habilidades para analizar</h6>
+                  <h4> grandes volúmenes de datos </h4>
+                  <p>detectando patrones y tendencias mediante distintos modelos, generan más valor a las organizaciones</p>
+                  <a href="services.html" class="filled-button">Porafolio</a>
                 </div>
             </div>
           </div>
@@ -138,11 +127,11 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-8">
-            <h4>Request a call back right now ?</h4>
-            <span>Mauris ut dapibus velit cras interdum nisl ac urna tempor mollis.</span>
+            <h4>Requiere contactarse con nosotros ?</h4>
+            <span>Somos la solucion a sus problemas de analisis de la informacion.</span>
           </div>
           <div class="col-md-4">
-            <a href="contact.html" class="border-button">Contact Us</a>
+            <a href="contact.html" class="border-button">Contactenos</a>
           </div>
         </div>
       </div>
@@ -159,7 +148,7 @@ https://templatemo.com/tm-545-finance-business
           </div>
           <div class="col-md-4">
             <div class="service-item">
-              <img src="assets/images/service_01.jpg" alt="">
+              <img src="service_01.jpg" alt="">
               <div class="down-content">
                 <h4>Digital Currency</h4>
                 <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
@@ -169,7 +158,7 @@ https://templatemo.com/tm-545-finance-business
           </div>
           <div class="col-md-4">
             <div class="service-item">
-              <img src="assets/images/service_02.jpg" alt="">
+              <img src="service_02.jpg" alt="">
               <div class="down-content">
                 <h4>Market Analysis</h4>
                 <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
@@ -179,7 +168,7 @@ https://templatemo.com/tm-545-finance-business
           </div>
           <div class="col-md-4">
             <div class="service-item">
-              <img src="assets/images/service_03.jpg" alt="">
+              <img src="service_03.jpg" alt="">
               <div class="down-content">
                 <h4>Historical Data</h4>
                 <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
@@ -243,7 +232,7 @@ https://templatemo.com/tm-545-finance-business
               <div class="row">
                 <div class="col-md-6">
                   <div class="left-image">
-                    <img src="assets/images/more-info.jpg" alt="">
+                    <img src="more-info.jpg" alt="">
                   </div>
                 </div>
                 <div class="col-md-6 align-self-center">
@@ -315,121 +304,21 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
-    <div class="callback-form">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="section-heading">
-              <h2>Request a <em>call back</em></h2>
-              <span>Etiam suscipit ante a odio consequat</span>
-            </div>
-          </div>
-          <div class="col-md-12">
-            <div class="contact-form">
-              <form id="contact" action="" method="post">
-                <div class="row">
-                  <div class="col-lg-4 col-md-12 col-sm-12">
-                    <fieldset>
-                      <input name="name" type="text" class="form-control" id="name" placeholder="Full Name" required="">
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-4 col-md-12 col-sm-12">
-                    <fieldset>
-                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="E-Mail Address" required="">
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-4 col-md-12 col-sm-12">
-                    <fieldset>
-                      <input name="subject" type="text" class="form-control" id="subject" placeholder="Subject" required="">
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-12">
-                    <fieldset>
-                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message" required=""></textarea>
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-12">
-                    <fieldset>
-                      <button type="submit" id="form-submit" class="border-button">Send Message</button>
-                    </fieldset>
-                  </div>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="partners">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="owl-partners owl-carousel">
-            
-              <div class="partner-item">
-                <img src="assets/images/client-01.png" title="1" alt="1">
-              </div>
-              
-              <div class="partner-item">
-                <img src="assets/images/client-01.png" title="2" alt="2">
-              </div>
-              
-              <div class="partner-item">
-                <img src="assets/images/client-01.png" title="3" alt="3">
-              </div>
-              
-              <div class="partner-item">
-                <img src="assets/images/client-01.png" title="4" alt="4">
-              </div>
-              
-              <div class="partner-item">
-                <img src="assets/images/client-01.png" title="5" alt="5">
-              </div>
-              
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-
     <!-- Footer Starts Here -->
     <footer>
       <div class="container">
         <div class="row">
           <div class="col-md-3 footer-item">
-            <h4>Finance Business</h4>
-            <p>Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus lacinia sapien vitae.</p>
+            <h4>Analitica estrategica de datos</h4>
+            <p>Encuentrame en redes.</p>
             <ul class="social-icons">
-              <li><a rel="nofollow" href="https://fb.com/templatemo" target="_blank"><i class="fa fa-facebook"></i></a></li>
+              <li><a rel="nofollow" href="#" ><i class="fa fa-facebook"></i></a></li>
               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
               <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-              <li><a href="#"><i class="fa fa-behance"></i></a></li>
-            </ul>
-          </div>
-          <div class="col-md-3 footer-item">
-            <h4>Useful Links</h4>
-            <ul class="menu-list">
-              <li><a href="#">Vivamus ut tellus mi</a></li>
-              <li><a href="#">Nulla nec cursus elit</a></li>
-              <li><a href="#">Vulputate sed nec</a></li>
-              <li><a href="#">Cursus augue hasellus</a></li>
-              <li><a href="#">Lacinia ac sapien</a></li>
-            </ul>
-          </div>
-          <div class="col-md-3 footer-item">
-            <h4>Additional Pages</h4>
-            <ul class="menu-list">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">How We Work</a></li>
-              <li><a href="#">Quick Support</a></li>
-              <li><a href="#">Contact Us</a></li>
-              <li><a href="#">Privacy Policy</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item last-item">
-            <h4>Contact Us</h4>
+            <h4>Contactame</h4>
             <div class="contact-form">
               <form id="contact footer-contact" action="" method="post">
                 <div class="row">
@@ -450,7 +339,7 @@ https://templatemo.com/tm-545-finance-business
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <button type="submit" id="form-submit" class="filled-button">Send Message</button>
+                      <button type="submit" id="form-submit" class="filled-button">Enviar</button>
                     </fieldset>
                   </div>
                 </div>
@@ -465,23 +354,21 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <p>Copyright &copy; 2020 Financial Business Co., Ltd.
-            
-            - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+            <p>Copyright &copy; 2021 Portafolio g.cardona</p>
           </div>
         </div>
       </div>
     </div>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="jquery.min.js"></script>
+    <script src="bootstrap.bundle.min.js"></script>
 
     <!-- Additional Scripts -->
-    <script src="assets/js/custom.js"></script>
-    <script src="assets/js/owl.js"></script>
-    <script src="assets/js/slick.js"></script>
-    <script src="assets/js/accordions.js"></script>
+    <script src="custom.js"></script>
+    <script src="owl.js"></script>
+    <script src="slick.js"></script>
+    <script src="accordions.js"></script>
 
     <script language = "text/Javascript"> 
       cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field
